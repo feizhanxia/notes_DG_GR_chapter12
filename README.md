@@ -141,7 +141,7 @@
 
 就如同定义拓扑空间只间映射的连续性后我们要定义拓扑空间之间的等价关系那样，现在我们要定义流形之间的**等价关系**。
 
-**定义4** 微分流形 $M$ 和 $M'$ 称为**互相微分同胚(diffeomorphic to each other)**，若 $\exist f: M \rightarrow M^{\prime}$ ，$f$ 是双射，$\mathrm{C}^{\infty}$ ，且逆 $\mathrm{C}^{\infty}$ 。这样的映射称为**微分同胚映射**，简称**微分同胚(diffeomorphism)**。
+**定义4** 微分流形 $M$ 和 $M'$ 称为**互相微分同胚(diffeomorphic to each other)**，若 $\exists f: M \rightarrow M^{\prime}$ ，$f$ 是双射，$\mathrm{C}^{\infty}$ ，且逆 $\mathrm{C}^{\infty}$ 。这样的映射称为**微分同胚映射**，简称**微分同胚(diffeomorphism)**。
 
 自然的，很容易接受，微分同胚是微分流形之间映射的最高要求，两个互相微分同胚的微分可以视作相等。只有维数相等的流形才可能微分同胚。微分流形上每个图的映射都是微分同胚。
 
