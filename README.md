@@ -77,10 +77,9 @@
 
 (a) $X, \varnothing \in \mathscr{T}$ ；
 
-(b) 若
-$O_{i} \in \mathscr{T}, i=1,2, \cdots, n$ , 则  $\bigcap_{i=1}^{n} O_{i} \in \mathscr{T}$ (其中  $\bigcap_{i=1}^{n} O_{i}$ 代表这  $n$ 个  $O_{i}$ 之交) ；
+(b) 若  $O_{i} \in \mathscr{T}, i=1,2, \cdots, n$  , 则  $\bigcap_{i=1}^{n} O_{i} \in \mathscr{T}$ (其中  $\bigcap_{i=1}^{n} O_{i}$ 代表这  $n$ 个  $O_{i}$ 之交) ；
 
-(c) 若$O_{\alpha} \in \mathscr{T} \ \forall \alpha$，则 $\bigcup_\alpha O_{\alpha} \in \mathscr{T}$ .
+(c) 若 $O_{\alpha} \in \mathscr{T} \ \forall \alpha$ ，则 $\bigcup_\alpha O_{\alpha} \in \mathscr{T}$ .
 
 **定义2** 指定了拓扑 $\mathscr{T}$ （开子集）的集合$X$称为**拓扑空间(topological space)**。
 
