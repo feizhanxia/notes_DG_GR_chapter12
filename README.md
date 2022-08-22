@@ -221,7 +221,7 @@
 
 (a)(线性) $v^a(\alpha f+\beta g)=\alpha v^a(f)+\beta v^a(g)$ ；
 
-(b)(莱布尼茨律) $v^a(f g)=\left.f\right|_{p} v^a(g)+\left.g\right|_{p} v^a(f)$ 。
+(b)(莱布尼茨律) $v^a(f g)=f|_{p} v^a(g)+g|_{p} v^a(f)$ .
 
 有一组特殊的矢量(从标量场集到实数集的映射)，叫做，标量场在一组坐标下的坐标偏导映射，数学定义如下：
 
