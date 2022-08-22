@@ -153,9 +153,7 @@
 
 2. 对 $\mathbb{R}^n$ 取 **通常拓扑**  
 
-   $\mathscr{T}_{\mathrm{u}}$
-
-    和全集的恒等映射，可以得到 $\left(\mathbb{R}^{n} , \mathscr{T}_{\mathrm{u}}\right)$ 是 **$n$ 维平凡流形**。
+   $\mathscr{T}_{\mathrm{u}}$ 和全集的恒等映射，可以得到 $\left(\mathbb{R}^{n} , \mathscr{T}_{\mathrm{u}}\right)$ 是 **$n$ 维平凡流形**。
 
 3. *拓扑空间* + *一组图册(微分结构)* = *微分流形*
 
