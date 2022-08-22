@@ -221,13 +221,15 @@
 
 (a)(线性) $v^a(\alpha f+\beta g)=\alpha v^a(f)+\beta v^a(g)$ ；
 
-(b)(莱布尼茨律) $v^a(f g)=f|_{p} v^a(g)+g|_{p} v^a(f)$ .
+(b)(莱布尼茨律)  $v^a(f g)=f|_{p} v^a(g)+g|_{p} v^a(f)$  .
 
 有一组特殊的矢量(从标量场集到实数集的映射)，叫做，标量场在一组坐标下的坐标偏导映射，数学定义如下：
 
 $(e_\mu)^a(f):=\left.\frac{\partial f\circ \psi\left(x^{1}, \cdots, x^{n}\right)}{\partial x^{\mu}}\right|_{p}, \quad \forall f \in \mathscr{F}_{M}$
 
- 在知道含义的情况下，可以简写为 $(e_\mu)^a(f):=\left.\frac{\partial f(x)}{\partial x^{\mu}}\right|_{p}, \quad \forall f \in \mathscr{F}_{M}$  。
+ 在知道含义的情况下，可以简写为 
+ $(e_\mu)^a(f):=\left.\frac{\partial f(x)}{\partial x^{\mu}}\right|_{p}, \quad \forall f \in \mathscr{F}_{M}$ 
+ 。
 
 上面均使用抽象指标记号： $v^a,\,(e_\mu)^a$  。之后我们将一直类似于这样的符号记法，其中小写拉丁字母上标为抽象指标，用来标记矢量，抽象指标用于区分类型而不涉及具体数值；其中小写希腊字母 $\mu$ 为具体指标，不同的值代表不同的矢量。 
 
