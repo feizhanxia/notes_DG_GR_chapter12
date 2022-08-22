@@ -75,9 +75,10 @@
 
 **定义1** 非空集合的一个**拓扑(topology)** $\mathscr{T}$ 是 $X$ 的若干子集的集合，并满足：
 
-(a) $ X, \varnothing \in \mathscr{T}$ ；
+(a) $X, \varnothing \in \mathscr{T}$ ；
 
-(b) 若$O_{i} \in \mathscr{T}, i=1,2, \cdots, n$ , 则 $\bigcap_{i=1}^{n} O_{i} \in \mathscr{T} $  (其中 $\bigcap_{i=1}^{n} O_{i} $ 代表这 $n$ 个 $O_{i}$  之交) ；
+(b) 若
+$O_{i} \in \mathscr{T}, i=1,2, \cdots, n$ , 则  $\bigcap_{i=1}^{n} O_{i} \in \mathscr{T}$ (其中  $\bigcap_{i=1}^{n} O_{i}$ 代表这  $n$ 个  $O_{i}$ 之交) ；
 
 (c) 若$O_{\alpha} \in \mathscr{T} \ \forall \alpha$，则 $\bigcup_\alpha O_{\alpha} \in \mathscr{T}$ .
 
