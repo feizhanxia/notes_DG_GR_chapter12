@@ -287,7 +287,27 @@ $v^a$ 任意即， $\mathrm{d}(f g)|_p=f|_p(\mathrm d g)|_p+ g|_p(\mathrm d f)|_
 
 
 
-考虑矢量的坐标分量的变换。
+考虑 矢量坐标基矢的变换，
+
+$(e_\mu)^a(f)=\frac{\partial f'(x'(x))}{\partial x^\mu}|_p=\frac{\partial f'(x'(x))}{\partial x'^\nu}\frac{\partial x'^\nu}{\partial x^\mu}|_p=\frac{\partial x'^\nu}{\partial x^\mu}|_p(e'_\nu)^a(f)$  
+
+换一种写法
+
+$(e_\mu)^a(\mathrm d f)_a=(e_\mu)^a(e'^\nu)_a(e'_\nu)^a(\mathrm d f)_a$ 
+
+例，量子力学的数学中内插一组完备基的操作， $\langle\phi|a\rangle=\Sigma_{a'}\bra{\phi}a'\rangle\langle a'\ket{a}$ ；
+
+于是得到矢量坐标分量的变换，
+
+$v'^\mu=(e'^\mu)_av^a=(e'^\mu)_a(e_\nu)^a(e^\nu)_av^a=(e'^\mu)_a(e_\nu)^a\;v^\mu=\frac{\partial x'^{\mu}}{\partial x^{\nu}}|_{p}\;v^\nu$  
+
+$w_{\nu}^{\prime}=(e^\mu)_a(e'_\nu)^a\;w_\mu=\frac{\partial x^{\mu}}{\partial x^{\prime v}}|_{p} \;w_{\mu}$  
+
+例， $\langle a'|\psi\rangle=\Sigma_{a}\bra{a'}a\rangle\langle a\ket{\psi}$ 。
+
+ 
+
+ 
 
 
 
@@ -310,6 +330,40 @@ $v^a$ 任意即， $\mathrm{d}(f g)|_p=f|_p(\mathrm d g)|_p+ g|_p(\mathrm d f)|_
 切矢
 
 矢量场
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
