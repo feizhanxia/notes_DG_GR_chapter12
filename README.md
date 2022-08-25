@@ -327,6 +327,26 @@ $w_{\nu}^{\prime}=(e^\mu)_a(e'_\nu)^a\;w_\mu=\frac{\partial x^{\mu}}{\partial x^
 
 什么是曲线
 
+**定义4** 光滑**曲线(curve)**是从 $\mathbb R$ 的一个区间 $I$ 到流形 $M$ 的 $C^\infty$ 类映射 $C:I\to M$ 。 $\forall t \in I\quad\exist \text{唯一} C(t)\in M$ ， $t$ 称为曲线的**参数(parameter)** 。
+
+对于像完全相同的两个曲线(映射)，可以叫做同一个曲线的**重参数化(reparametrization)**。
+
+<img src="pics/def_curve.png" alt="def_curve" style="zoom:55%;" /><img src="pics/def_reparametrization.png" alt="def_reparametrization" style="zoom:45%;" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 切矢
 
 矢量场
