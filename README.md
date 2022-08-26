@@ -1,10 +1,8 @@
 # 微分几何与广义相对论 一二章 笔记
 
-**注：** 下面是这份笔记的序言和目录(截图)，由于GitHub中Markdown对公式的要求比较高，难以给出很好的显示效果，建议下载[PDF文件](note_for_DG.pdf)或在[Typora](https://typora.io)上编写的[Markdown文件](note_for_DG.md)本地查看。
+**注：** 下面是这份笔记的序言和目录(截图)，由于GitHub中Markdown对公式的要求比较高，难以给出很好的显示效果，建议下载[PDF文件](note_for_DG.pdf)或在[Typora](https://typora.io)上编写的[Markdown文件](note_for_DG.md)本地查看。     
 
-**目录**
 
-<img src="pics/toc.png" alt="toc" style="zoom:50%;" />     
 
 ## 序
 
@@ -18,3 +16,6 @@
 
 这部分内容的确是相对简单基础的内容，但（在我看来）作为像我这样的初学物理的同学接刚刚触微分几何的入门的那一小段路，我认为有必要加以整理，以便后来的同学们参考和学习。当然任何的笔记都不是适合所有人的，但我相信至少对于某些同学，这份笔记可以对更轻松的学习理解这部分内容有一定帮助。
 
+**目录**
+
+<img src="pics/toc.png" alt="toc" style="zoom:30%;" />
